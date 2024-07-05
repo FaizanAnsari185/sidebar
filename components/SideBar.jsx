@@ -20,7 +20,7 @@ export default function SideBar() {
         <div>
           <button
             onClick={handelToggle}
-            className="bg-lime-500 rounded-xl p-2 border-2 border-lime-700"
+            className="bg-purple-500 rounded-xl p-2 border-2 border-purple-700"
           >
             close
           </button>
